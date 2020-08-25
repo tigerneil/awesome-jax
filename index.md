@@ -1,5 +1,5 @@
 # Awesome JAX
-Active users
+## Active users
 1. Google
 - trax: [https://github.com/google/trax](https://github.com/google/trax)
 
@@ -28,3 +28,6 @@ Performance
 1. Google Colab
 - [https://github.com/dionhaefner/pyhpc-benchmarks/blob/master/results/colab.md](https://github.com/dionhaefner/pyhpc-benchmarks/blob/master/results/colab.md)
 - [https://github.com/dionhaefner/pyhpc-benchmarks/blob/master/results/magni.md](https://github.com/dionhaefner/pyhpc-benchmarks/blob/master/results/magni.md)
+
+## Blogs
+1. [From PyTorch to JAX: towards neural net frameworks that purify stateful code](https://sjmielke.com/jax-purify.htm)
